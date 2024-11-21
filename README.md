@@ -25,3 +25,4 @@ This project is a Rust-based microservice for managing messages with a PostgreSQ
    ```bash
    git clone <repository-url>
    cd <repository-directory>
+2. Run docker-compose up to start the service.
