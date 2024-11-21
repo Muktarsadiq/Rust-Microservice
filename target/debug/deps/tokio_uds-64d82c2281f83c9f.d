@@ -1,0 +1,13 @@
+/Users/user/Desktop/rust_micro/target/debug/deps/libtokio_uds-64d82c2281f83c9f.rmeta: /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/datagram.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/frame.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/incoming.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/listener.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/recv_dgram.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/send_dgram.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/stream.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/ucred.rs
+
+/Users/user/Desktop/rust_micro/target/debug/deps/tokio_uds-64d82c2281f83c9f.d: /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/datagram.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/frame.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/incoming.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/listener.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/recv_dgram.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/send_dgram.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/stream.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/ucred.rs
+
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/lib.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/datagram.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/frame.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/incoming.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/listener.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/recv_dgram.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/send_dgram.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/stream.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-uds-0.2.7/src/ucred.rs:
